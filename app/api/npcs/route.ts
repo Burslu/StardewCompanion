@@ -1,43 +1,22 @@
 import { NextResponse } from 'next/server';
-import { PrismaClient } from '@prisma/client';
-import { PrismaLibSql } from '@prisma/adapter-libsql';
-
-const adapter = new PrismaLibSql({ url: 'file:./dev.db' });
-const prisma = new PrismaClient({ adapter });
+import npcsData from '../../../data/npcs.json';
 
 export async function GET(request: Request) {
     const { searchParams } = new URL(request.url);
     const name = searchParams.get('name');
 
     if (name) {
-        const npc = await prisma.npc.findUnique({
-            where: { name }
-        });
+        const npc = npcsData.find((n: any) => n.name.toLowerCase() === name.toLowerCase());
 
         if (!npc) {
             return NextResponse.json({ error: 'NPC not found' }, { status: 404 });
         }
 
-        return NextResponse.json({
-            ...npc,
-            loves: JSON.parse(npc.loves),
-            likes: JSON.parse(npc.likes),
-            hates: JSON.parse(npc.hates),
-        });
+        return NextResponse.json(npc);
     }
 
-    const npcs = await prisma.npc.findMany({
-        orderBy: {
-            name: 'asc'
-        }
-    });
+    // Sort NPCs by name
+    const sortedNpcs = [...npcsData].sort((a: any, b: any) => a.name.localeCompare(b.name));
 
-    const npcsWithParsedData = npcs.map((npc: any) => ({
-        ...npc,
-        loves: JSON.parse(npc.loves),
-        likes: JSON.parse(npc.likes),
-        hates: JSON.parse(npc.hates),
-    }));
-
-    return NextResponse.json(npcsWithParsedData);
+    return NextResponse.json(sortedNpcs);
 }
