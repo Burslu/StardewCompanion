@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.stardewcompanion.app",
+            "sha256_cert_fingerprints": [
+                "E4:7A:55:EF:DF:64:77:9D:C9:E8:FC:5A:DA:A8:25:EA:C6:77:B9:93:30:E6:40:8B:5C:5A:31:31:F5:41:6F:D4"
+            ]
+        }
+    }
+]
