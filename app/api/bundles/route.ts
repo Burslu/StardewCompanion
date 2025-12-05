@@ -1,17 +1,17 @@
+```typescript
 import { NextResponse } from 'next/server';
-import { PrismaClient } from '@prisma/client';
-import { PrismaLibSql } from '@prisma/adapter-libsql';
+import bundlesData from '../../../data/bundles.json';
 
-const adapter = new PrismaLibSql({ url: 'file:./dev.db' });
-const prisma = new PrismaClient({ adapter });
+export async function GET(request: Request) {
+    const { searchParams } = new URL(request.url);
+    const room = searchParams.get('room');
 
-export async function GET() {
-    const bundles = await prisma.bundle.findMany({
-        orderBy: { room: 'asc' }
-    });
+    let filteredBundles = bundlesData;
 
-    return NextResponse.json(bundles.map((b: any) => ({
-        ...b,
-        items: JSON.parse(b.items)
-    })));
+    if (room && room !== 'All Rooms') {
+        filteredBundles = bundlesData.filter((bundle: any) => bundle.room === room);
+    }
+
+    return NextResponse.json(filteredBundles);
 }
+```

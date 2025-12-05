@@ -1,24 +1,15 @@
 import { NextResponse } from 'next/server';
-import { PrismaClient } from '@prisma/client';
-import { PrismaLibSql } from '@prisma/adapter-libsql';
-
-const adapter = new PrismaLibSql({ url: 'file:./dev.db' });
-const prisma = new PrismaClient({ adapter });
+import cropsData from '../../../data/crops.json';
 
 export async function GET(request: Request) {
     const { searchParams } = new URL(request.url);
     const season = searchParams.get('season');
 
-    const crops = await prisma.crop.findMany({
-        where: season ? {
-            season: {
-                contains: season
-            }
-        } : undefined,
-        orderBy: {
-            name: 'asc'
-        }
-    });
+    let filteredCrops = cropsData;
 
-    return NextResponse.json(crops);
+    if (season && season !== 'All Seasons') {
+        filteredCrops = cropsData.filter((crop: any) => crop.season.includes(season));
+    }
+
+    return NextResponse.json(filteredCrops);
 }
