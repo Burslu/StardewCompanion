@@ -1,19 +1,9 @@
-'use client';
-
-import { useState, useEffect } from 'react';
-import Link from 'next/link';
-import dynamic from 'next/dynamic';
-import { useFavorites } from '../contexts/FavoritesContext';
-
-const ThemeToggle = dynamic(() => import('../components/ThemeToggle'), { ssr: false });
-
-interface Recipe {
-    id: string;
-    name: string;
-    description: string | null;
-    ingredients: { item: string; quantity: number }[];
-    buffs: { type: string; value: number }[] | null;
-    source: string;
+id: string;
+name: string;
+description: string | null;
+ingredients: { item: string; quantity: number } [];
+buffs: { type: string; value: number } [] | null;
+source: string;
 }
 
 export default function FavoritesPage() {
