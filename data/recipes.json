@@ -1,0 +1,1747 @@
+[
+    {
+        "name": "Fried Egg",
+        "ingredients": [
+            {
+                "item": "Egg",
+                "quantity": 1
+            }
+        ],
+        "energy": 50,
+        "health": 22,
+        "buffs": [],
+        "source": "Default recipe",
+        "category": "Breakfast",
+        "sellPrice": 35
+    },
+    {
+        "name": "Omelet",
+        "ingredients": [
+            {
+                "item": "Egg",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            }
+        ],
+        "energy": 100,
+        "health": 45,
+        "buffs": [],
+        "source": "Queen of Sauce (Spring 28, Year 1)",
+        "category": "Breakfast",
+        "sellPrice": 125
+    },
+    {
+        "name": "Salad",
+        "ingredients": [
+            {
+                "item": "Leek",
+                "quantity": 1
+            },
+            {
+                "item": "Dandelion",
+                "quantity": 1
+            },
+            {
+                "item": "Vinegar",
+                "quantity": 1
+            }
+        ],
+        "energy": 113,
+        "health": 50,
+        "buffs": [],
+        "source": "Emily (3 hearts)",
+        "category": "Salad",
+        "sellPrice": 110
+    },
+    {
+        "name": "Cheese Cauliflower",
+        "ingredients": [
+            {
+                "item": "Cauliflower",
+                "quantity": 1
+            },
+            {
+                "item": "Cheese",
+                "quantity": 1
+            }
+        ],
+        "energy": 138,
+        "health": 62,
+        "buffs": [],
+        "source": "Pam (3 hearts)",
+        "category": "Dinner",
+        "sellPrice": 300
+    },
+    {
+        "name": "Baked Fish",
+        "ingredients": [
+            {
+                "item": "Sunfish",
+                "quantity": 1
+            },
+            {
+                "item": "Bream",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            }
+        ],
+        "energy": 75,
+        "health": 33,
+        "buffs": [],
+        "source": "Queen of Sauce (Summer 7, Year 1)",
+        "category": "Dinner",
+        "sellPrice": 100
+    },
+    {
+        "name": "Parsnip Soup",
+        "ingredients": [
+            {
+                "item": "Parsnip",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            },
+            {
+                "item": "Vinegar",
+                "quantity": 1
+            }
+        ],
+        "energy": 75,
+        "health": 33,
+        "buffs": [],
+        "source": "Caroline (3 hearts)",
+        "category": "Soup",
+        "sellPrice": 120
+    },
+    {
+        "name": "Vegetable Medley",
+        "ingredients": [
+            {
+                "item": "Tomato",
+                "quantity": 1
+            },
+            {
+                "item": "Beet",
+                "quantity": 1
+            }
+        ],
+        "energy": 165,
+        "health": 74,
+        "buffs": [],
+        "source": "Caroline (7 hearts)",
+        "category": "Dinner",
+        "sellPrice": 120
+    },
+    {
+        "name": "Complete Breakfast",
+        "ingredients": [
+            {
+                "item": "Fried Egg",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            },
+            {
+                "item": "Hashbrowns",
+                "quantity": 1
+            },
+            {
+                "item": "Pancakes",
+                "quantity": 1
+            }
+        ],
+        "energy": 200,
+        "health": 90,
+        "buffs": [
+            {
+                "type": "Farming",
+                "value": 2
+            },
+            {
+                "type": "Max Energy",
+                "value": 50
+            }
+        ],
+        "source": "Queen of Sauce (Spring 21, Year 2)",
+        "category": "Breakfast",
+        "sellPrice": 350
+    },
+    {
+        "name": "Fried Calamari",
+        "ingredients": [
+            {
+                "item": "Squid",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Oil",
+                "quantity": 1
+            }
+        ],
+        "energy": 75,
+        "health": 33,
+        "buffs": [],
+        "source": "Jodi (3 hearts)",
+        "category": "Dinner",
+        "sellPrice": 150
+    },
+    {
+        "name": "Strange Bun",
+        "ingredients": [
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Periwinkle",
+                "quantity": 1
+            },
+            {
+                "item": "Void Mayonnaise",
+                "quantity": 1
+            }
+        ],
+        "energy": 100,
+        "health": 45,
+        "buffs": [],
+        "source": "Shane (7 hearts)",
+        "category": "Dinner",
+        "sellPrice": 225
+    },
+    {
+        "name": "Lucky Lunch",
+        "ingredients": [
+            {
+                "item": "Sea Cucumber",
+                "quantity": 1
+            },
+            {
+                "item": "Tortilla",
+                "quantity": 1
+            },
+            {
+                "item": "Blue Jazz",
+                "quantity": 1
+            }
+        ],
+        "energy": 100,
+        "health": 45,
+        "buffs": [
+            {
+                "type": "Luck",
+                "value": 3
+            }
+        ],
+        "source": "Queen of Sauce (Winter 28, Year 2)",
+        "category": "Lunch",
+        "sellPrice": 250
+    },
+    {
+        "name": "Fried Mushroom",
+        "ingredients": [
+            {
+                "item": "Common Mushroom",
+                "quantity": 1
+            },
+            {
+                "item": "Morel",
+                "quantity": 1
+            },
+            {
+                "item": "Oil",
+                "quantity": 1
+            }
+        ],
+        "energy": 200,
+        "health": 90,
+        "buffs": [
+            {
+                "type": "Attack",
+                "value": 2
+            }
+        ],
+        "source": "Demetrius (3 hearts)",
+        "category": "Dinner",
+        "sellPrice": 200
+    },
+    {
+        "name": "Pizza",
+        "ingredients": [
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Tomato",
+                "quantity": 1
+            },
+            {
+                "item": "Cheese",
+                "quantity": 1
+            }
+        ],
+        "energy": 75,
+        "health": 33,
+        "buffs": [],
+        "source": "Queen of Sauce (Fall 7, Year 1)",
+        "category": "Dinner",
+        "sellPrice": 300
+    },
+    {
+        "name": "Bean Hotpot",
+        "ingredients": [
+            {
+                "item": "Green Bean",
+                "quantity": 2
+            }
+        ],
+        "energy": 125,
+        "health": 56,
+        "buffs": [
+            {
+                "type": "Max Energy",
+                "value": 30
+            },
+            {
+                "type": "Magnetism",
+                "value": 32
+            }
+        ],
+        "source": "Clint (7 hearts)",
+        "category": "Soup",
+        "sellPrice": 100
+    },
+    {
+        "name": "Glazed Yams",
+        "ingredients": [
+            {
+                "item": "Yam",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            }
+        ],
+        "energy": 200,
+        "health": 90,
+        "buffs": [],
+        "source": "Queen of Sauce (Fall 21, Year 1)",
+        "category": "Side",
+        "sellPrice": 200
+    },
+    {
+        "name": "Carp Surprise",
+        "ingredients": [
+            {
+                "item": "Carp",
+                "quantity": 4
+            }
+        ],
+        "energy": 90,
+        "health": 40,
+        "buffs": [],
+        "source": "Queen of Sauce (Summer 7, Year 2)",
+        "category": "Dinner",
+        "sellPrice": 150
+    },
+    {
+        "name": "Hashbrowns",
+        "ingredients": [
+            {
+                "item": "Potato",
+                "quantity": 1
+            },
+            {
+                "item": "Oil",
+                "quantity": 1
+            }
+        ],
+        "energy": 120,
+        "health": 54,
+        "buffs": [
+            {
+                "type": "Farming",
+                "value": 1
+            }
+        ],
+        "source": "Queen of Sauce (Spring 14, Year 2)",
+        "category": "Breakfast",
+        "sellPrice": 120
+    },
+    {
+        "name": "Pancakes",
+        "ingredients": [
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Egg",
+                "quantity": 1
+            }
+        ],
+        "energy": 80,
+        "health": 36,
+        "buffs": [
+            {
+                "type": "Foraging",
+                "value": 2
+            }
+        ],
+        "source": "Queen of Sauce (Summer 14, Year 1)",
+        "category": "Breakfast",
+        "sellPrice": 80
+    },
+    {
+        "name": "Salmon Dinner",
+        "ingredients": [
+            {
+                "item": "Salmon",
+                "quantity": 1
+            },
+            {
+                "item": "Amaranth",
+                "quantity": 1
+            },
+            {
+                "item": "Kale",
+                "quantity": 1
+            }
+        ],
+        "energy": 125,
+        "health": 56,
+        "buffs": [
+            {
+                "type": "Fishing",
+                "value": 3
+            }
+        ],
+        "source": "Gus (3 hearts)",
+        "category": "Dinner",
+        "sellPrice": 300
+    },
+    {
+        "name": "Fish Taco",
+        "ingredients": [
+            {
+                "item": "Tuna",
+                "quantity": 1
+            },
+            {
+                "item": "Tortilla",
+                "quantity": 1
+            },
+            {
+                "item": "Red Cabbage",
+                "quantity": 1
+            },
+            {
+                "item": "Mayonnaise",
+                "quantity": 1
+            }
+        ],
+        "energy": 165,
+        "health": 74,
+        "buffs": [
+            {
+                "type": "Fishing",
+                "value": 2
+            }
+        ],
+        "source": "Linus (7 hearts)",
+        "category": "Dinner",
+        "sellPrice": 500
+    },
+    {
+        "name": "Crispy Bass",
+        "ingredients": [
+            {
+                "item": "Largemouth Bass",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Oil",
+                "quantity": 1
+            }
+        ],
+        "energy": 90,
+        "health": 40,
+        "buffs": [
+            {
+                "type": "Magnetism",
+                "value": 64
+            }
+        ],
+        "source": "Kent (3 hearts)",
+        "category": "Dinner",
+        "sellPrice": 150
+    },
+    {
+        "name": "Pepper Poppers",
+        "ingredients": [
+            {
+                "item": "Hot Pepper",
+                "quantity": 1
+            },
+            {
+                "item": "Cheese",
+                "quantity": 1
+            }
+        ],
+        "energy": 175,
+        "health": 78,
+        "buffs": [
+            {
+                "type": "Farming",
+                "value": 2
+            },
+            {
+                "type": "Speed",
+                "value": 1
+            }
+        ],
+        "source": "Shane (3 hearts)",
+        "category": "Appetizer",
+        "sellPrice": 200
+    },
+    {
+        "name": "Bread",
+        "ingredients": [
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            }
+        ],
+        "energy": 50,
+        "health": 22,
+        "buffs": [],
+        "source": "Queen of Sauce (Fall 28, Year 1)",
+        "category": "Bread",
+        "sellPrice": 60
+    },
+    {
+        "name": "Tom Kha Soup",
+        "ingredients": [
+            {
+                "item": "Coconut",
+                "quantity": 1
+            },
+            {
+                "item": "Shrimp",
+                "quantity": 1
+            },
+            {
+                "item": "Common Mushroom",
+                "quantity": 1
+            }
+        ],
+        "energy": 175,
+        "health": 78,
+        "buffs": [
+            {
+                "type": "Farming",
+                "value": 2
+            },
+            {
+                "type": "Max Energy",
+                "value": 30
+            }
+        ],
+        "source": "Sandy (7 hearts)",
+        "category": "Soup",
+        "sellPrice": 250
+    },
+    {
+        "name": "Trout Soup",
+        "ingredients": [
+            {
+                "item": "Rainbow Trout",
+                "quantity": 1
+            },
+            {
+                "item": "Green Algae",
+                "quantity": 1
+            }
+        ],
+        "energy": 100,
+        "health": 45,
+        "buffs": [
+            {
+                "type": "Fishing",
+                "value": 1
+            }
+        ],
+        "source": "Queen of Sauce (Fall 14, Year 1)",
+        "category": "Soup",
+        "sellPrice": 100
+    },
+    {
+        "name": "Chocolate Cake",
+        "ingredients": [
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            },
+            {
+                "item": "Egg",
+                "quantity": 1
+            }
+        ],
+        "energy": 150,
+        "health": 67,
+        "buffs": [],
+        "source": "Queen of Sauce (Winter 14, Year 1)",
+        "category": "Dessert",
+        "sellPrice": 200
+    },
+    {
+        "name": "Pink Cake",
+        "ingredients": [
+            {
+                "item": "Melon",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            },
+            {
+                "item": "Egg",
+                "quantity": 1
+            }
+        ],
+        "energy": 250,
+        "health": 112,
+        "buffs": [],
+        "source": "Queen of Sauce (Summer 21, Year 2)",
+        "category": "Dessert",
+        "sellPrice": 480
+    },
+    {
+        "name": "Rhubarb Pie",
+        "ingredients": [
+            {
+                "item": "Rhubarb",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            }
+        ],
+        "energy": 216,
+        "health": 97,
+        "buffs": [],
+        "source": "Marnie (7 hearts)",
+        "category": "Dessert",
+        "sellPrice": 400
+    },
+    {
+        "name": "Cookie",
+        "ingredients": [
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            },
+            {
+                "item": "Egg",
+                "quantity": 1
+            }
+        ],
+        "energy": 90,
+        "health": 40,
+        "buffs": [],
+        "source": "Evelyn (4-heart event)",
+        "category": "Dessert",
+        "sellPrice": 140
+    },
+    {
+        "name": "Spaghetti",
+        "ingredients": [
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Tomato",
+                "quantity": 1
+            }
+        ],
+        "energy": 75,
+        "health": 33,
+        "buffs": [],
+        "source": "Lewis (3 hearts)",
+        "category": "Dinner",
+        "sellPrice": 120
+    },
+    {
+        "name": "Fried Eel",
+        "ingredients": [
+            {
+                "item": "Eel",
+                "quantity": 1
+            },
+            {
+                "item": "Oil",
+                "quantity": 1
+            }
+        ],
+        "energy": 75,
+        "health": 33,
+        "buffs": [
+            {
+                "type": "Luck",
+                "value": 1
+            }
+        ],
+        "source": "George (3 hearts)",
+        "category": "Dinner",
+        "sellPrice": 120
+    },
+    {
+        "name": "Spicy Eel",
+        "ingredients": [
+            {
+                "item": "Eel",
+                "quantity": 1
+            },
+            {
+                "item": "Hot Pepper",
+                "quantity": 1
+            }
+        ],
+        "energy": 115,
+        "health": 51,
+        "buffs": [
+            {
+                "type": "Luck",
+                "value": 1
+            },
+            {
+                "type": "Speed",
+                "value": 1
+            }
+        ],
+        "source": "George (7 hearts)",
+        "category": "Dinner",
+        "sellPrice": 175
+    },
+    {
+        "name": "Sashimi",
+        "ingredients": [
+            {
+                "item": "Any Fish",
+                "quantity": 1
+            }
+        ],
+        "energy": 75,
+        "health": 33,
+        "buffs": [],
+        "source": "Linus (3 hearts)",
+        "category": "Dinner",
+        "sellPrice": 75
+    },
+    {
+        "name": "Maki Roll",
+        "ingredients": [
+            {
+                "item": "Any Fish",
+                "quantity": 1
+            },
+            {
+                "item": "Seaweed",
+                "quantity": 1
+            },
+            {
+                "item": "Rice",
+                "quantity": 1
+            }
+        ],
+        "energy": 100,
+        "health": 45,
+        "buffs": [],
+        "source": "Queen of Sauce (Summer 21, Year 1)",
+        "category": "Dinner",
+        "sellPrice": 220
+    },
+    {
+        "name": "Tortilla",
+        "ingredients": [
+            {
+                "item": "Corn",
+                "quantity": 1
+            }
+        ],
+        "energy": 50,
+        "health": 22,
+        "buffs": [],
+        "source": "Queen of Sauce (Fall 7, Year 2)",
+        "category": "Bread",
+        "sellPrice": 50
+    },
+    {
+        "name": "Red Plate",
+        "ingredients": [
+            {
+                "item": "Red Cabbage",
+                "quantity": 1
+            },
+            {
+                "item": "Radish",
+                "quantity": 1
+            }
+        ],
+        "energy": 150,
+        "health": 67,
+        "buffs": [
+            {
+                "type": "Max Energy",
+                "value": 50
+            }
+        ],
+        "source": "Emily (7 hearts)",
+        "category": "Dinner",
+        "sellPrice": 400
+    },
+    {
+        "name": "Eggplant Parmesan",
+        "ingredients": [
+            {
+                "item": "Eggplant",
+                "quantity": 1
+            },
+            {
+                "item": "Tomato",
+                "quantity": 1
+            }
+        ],
+        "energy": 175,
+        "health": 78,
+        "buffs": [
+            {
+                "type": "Mining",
+                "value": 1
+            },
+            {
+                "type": "Defense",
+                "value": 3
+            }
+        ],
+        "source": "Lewis (7 hearts)",
+        "category": "Dinner",
+        "sellPrice": 200
+    },
+    {
+        "name": "Rice Pudding",
+        "ingredients": [
+            {
+                "item": "Milk",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            },
+            {
+                "item": "Rice",
+                "quantity": 1
+            }
+        ],
+        "energy": 115,
+        "health": 51,
+        "buffs": [],
+        "source": "Evelyn (7 hearts)",
+        "category": "Dessert",
+        "sellPrice": 260
+    },
+    {
+        "name": "Ice Cream",
+        "ingredients": [
+            {
+                "item": "Milk",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            }
+        ],
+        "energy": 100,
+        "health": 45,
+        "buffs": [],
+        "source": "Jodi (7 hearts)",
+        "category": "Dessert",
+        "sellPrice": 120
+    },
+    {
+        "name": "Blueberry Tart",
+        "ingredients": [
+            {
+                "item": "Blueberry",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            },
+            {
+                "item": "Egg",
+                "quantity": 1
+            }
+        ],
+        "energy": 150,
+        "health": 67,
+        "buffs": [],
+        "source": "Pierre (3 hearts)",
+        "category": "Dessert",
+        "sellPrice": 150
+    },
+    {
+        "name": "Autumn's Bounty",
+        "ingredients": [
+            {
+                "item": "Yam",
+                "quantity": 1
+            },
+            {
+                "item": "Pumpkin",
+                "quantity": 1
+            }
+        ],
+        "energy": 220,
+        "health": 99,
+        "buffs": [
+            {
+                "type": "Foraging",
+                "value": 2
+            },
+            {
+                "type": "Defense",
+                "value": 2
+            }
+        ],
+        "source": "Demetrius (7 hearts)",
+        "category": "Dinner",
+        "sellPrice": 350
+    },
+    {
+        "name": "Pumpkin Soup",
+        "ingredients": [
+            {
+                "item": "Pumpkin",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            }
+        ],
+        "energy": 200,
+        "health": 90,
+        "buffs": [
+            {
+                "type": "Defense",
+                "value": 2
+            },
+            {
+                "type": "Luck",
+                "value": 2
+            }
+        ],
+        "source": "Robin (7 hearts)",
+        "category": "Soup",
+        "sellPrice": 300
+    },
+    {
+        "name": "Super Meal",
+        "ingredients": [
+            {
+                "item": "Bok Choy",
+                "quantity": 1
+            },
+            {
+                "item": "Cranberries",
+                "quantity": 1
+            },
+            {
+                "item": "Artichoke",
+                "quantity": 1
+            }
+        ],
+        "energy": 160,
+        "health": 72,
+        "buffs": [
+            {
+                "type": "Max Energy",
+                "value": 40
+            },
+            {
+                "type": "Speed",
+                "value": 1
+            }
+        ],
+        "source": "Kent (7 hearts)",
+        "category": "Dinner",
+        "sellPrice": 220
+    },
+    {
+        "name": "Cranberry Sauce",
+        "ingredients": [
+            {
+                "item": "Cranberries",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            }
+        ],
+        "energy": 125,
+        "health": 56,
+        "buffs": [
+            {
+                "type": "Mining",
+                "value": 2
+            }
+        ],
+        "source": "Gus (7 hearts)",
+        "category": "Side",
+        "sellPrice": 120
+    },
+    {
+        "name": "Stuffing",
+        "ingredients": [
+            {
+                "item": "Bread",
+                "quantity": 1
+            },
+            {
+                "item": "Cranberries",
+                "quantity": 1
+            },
+            {
+                "item": "Hazelnut",
+                "quantity": 1
+            }
+        ],
+        "energy": 170,
+        "health": 76,
+        "buffs": [
+            {
+                "type": "Defense",
+                "value": 2
+            }
+        ],
+        "source": "Pam (7 hearts)",
+        "category": "Side",
+        "sellPrice": 165
+    },
+    {
+        "name": "Farmer's Lunch",
+        "ingredients": [
+            {
+                "item": "Omelet",
+                "quantity": 1
+            },
+            {
+                "item": "Parsnip",
+                "quantity": 1
+            }
+        ],
+        "energy": 150,
+        "health": 67,
+        "buffs": [
+            {
+                "type": "Farming",
+                "value": 3
+            }
+        ],
+        "source": "Farming Level 3",
+        "category": "Lunch",
+        "sellPrice": 150
+    },
+    {
+        "name": "Survival Burger",
+        "ingredients": [
+            {
+                "item": "Bread",
+                "quantity": 1
+            },
+            {
+                "item": "Cave Carrot",
+                "quantity": 1
+            },
+            {
+                "item": "Eggplant",
+                "quantity": 1
+            }
+        ],
+        "energy": 125,
+        "health": 56,
+        "buffs": [
+            {
+                "type": "Foraging",
+                "value": 3
+            }
+        ],
+        "source": "Foraging Level 2",
+        "category": "Dinner",
+        "sellPrice": 180
+    },
+    {
+        "name": "Dish O' The Sea",
+        "ingredients": [
+            {
+                "item": "Sardine",
+                "quantity": 2
+            },
+            {
+                "item": "Hashbrowns",
+                "quantity": 1
+            }
+        ],
+        "energy": 175,
+        "health": 78,
+        "buffs": [
+            {
+                "type": "Fishing",
+                "value": 3
+            }
+        ],
+        "source": "Fishing Level 3",
+        "category": "Dinner",
+        "sellPrice": 220
+    },
+    {
+        "name": "Miner's Treat",
+        "ingredients": [
+            {
+                "item": "Cave Carrot",
+                "quantity": 2
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            }
+        ],
+        "energy": 125,
+        "health": 56,
+        "buffs": [
+            {
+                "type": "Mining",
+                "value": 3
+            },
+            {
+                "type": "Magnetism",
+                "value": 32
+            }
+        ],
+        "source": "Mining Level 3",
+        "category": "Dessert",
+        "sellPrice": 200
+    },
+    {
+        "name": "Roots Platter",
+        "ingredients": [
+            {
+                "item": "Cave Carrot",
+                "quantity": 1
+            },
+            {
+                "item": "Winter Root",
+                "quantity": 1
+            }
+        ],
+        "energy": 125,
+        "health": 56,
+        "buffs": [
+            {
+                "type": "Attack",
+                "value": 3
+            }
+        ],
+        "source": "Combat Level 3",
+        "category": "Dinner",
+        "sellPrice": 100
+    },
+    {
+        "name": "Algae Soup",
+        "ingredients": [
+            {
+                "item": "Green Algae",
+                "quantity": 4
+            }
+        ],
+        "energy": 100,
+        "health": 45,
+        "buffs": [],
+        "source": "Clint (3 hearts)",
+        "category": "Soup",
+        "sellPrice": 100
+    },
+    {
+        "name": "Pale Broth",
+        "ingredients": [
+            {
+                "item": "White Algae",
+                "quantity": 2
+            }
+        ],
+        "energy": 100,
+        "health": 45,
+        "buffs": [],
+        "source": "Marnie (3 hearts)",
+        "category": "Soup",
+        "sellPrice": 150
+    },
+    {
+        "name": "Plum Pudding",
+        "ingredients": [
+            {
+                "item": "Wild Plum",
+                "quantity": 2
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            }
+        ],
+        "energy": 260,
+        "health": 117,
+        "buffs": [],
+        "source": "Queen of Sauce (Winter 7, Year 1)",
+        "category": "Dessert",
+        "sellPrice": 260
+    },
+    {
+        "name": "Artichoke Dip",
+        "ingredients": [
+            {
+                "item": "Artichoke",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            }
+        ],
+        "energy": 90,
+        "health": 40,
+        "buffs": [],
+        "source": "Queen of Sauce (Fall 28, Year 2)",
+        "category": "Appetizer",
+        "sellPrice": 210
+    },
+    {
+        "name": "Stir Fry",
+        "ingredients": [
+            {
+                "item": "Cave Carrot",
+                "quantity": 1
+            },
+            {
+                "item": "Common Mushroom",
+                "quantity": 1
+            },
+            {
+                "item": "Kale",
+                "quantity": 1
+            },
+            {
+                "item": "Oil",
+                "quantity": 1
+            }
+        ],
+        "energy": 200,
+        "health": 90,
+        "buffs": [],
+        "source": "Queen of Sauce (Spring 7, Year 1)",
+        "category": "Dinner",
+        "sellPrice": 335
+    },
+    {
+        "name": "Roasted Hazelnuts",
+        "ingredients": [
+            {
+                "item": "Hazelnut",
+                "quantity": 3
+            }
+        ],
+        "energy": 100,
+        "health": 45,
+        "buffs": [],
+        "source": "Queen of Sauce (Summer 28, Year 2)",
+        "category": "Snack",
+        "sellPrice": 270
+    },
+    {
+        "name": "Pumpkin Pie",
+        "ingredients": [
+            {
+                "item": "Pumpkin",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            }
+        ],
+        "energy": 225,
+        "health": 101,
+        "buffs": [],
+        "source": "Queen of Sauce (Winter 21, Year 1)",
+        "category": "Dessert",
+        "sellPrice": 385
+    },
+    {
+        "name": "Radish Salad",
+        "ingredients": [
+            {
+                "item": "Oil",
+                "quantity": 1
+            },
+            {
+                "item": "Vinegar",
+                "quantity": 1
+            },
+            {
+                "item": "Radish",
+                "quantity": 1
+            }
+        ],
+        "energy": 90,
+        "health": 40,
+        "buffs": [],
+        "source": "Queen of Sauce (Spring 21, Year 1)",
+        "category": "Salad",
+        "sellPrice": 300
+    },
+    {
+        "name": "Fruit Salad",
+        "ingredients": [
+            {
+                "item": "Blueberry",
+                "quantity": 1
+            },
+            {
+                "item": "Melon",
+                "quantity": 1
+            },
+            {
+                "item": "Apricot",
+                "quantity": 1
+            }
+        ],
+        "energy": 105,
+        "health": 47,
+        "buffs": [],
+        "source": "Queen of Sauce (Fall 7, Year 2)",
+        "category": "Salad",
+        "sellPrice": 450
+    },
+    {
+        "name": "Blackberry Cobbler",
+        "ingredients": [
+            {
+                "item": "Blackberry",
+                "quantity": 2
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            }
+        ],
+        "energy": 175,
+        "health": 78,
+        "buffs": [],
+        "source": "Queen of Sauce (Fall 14, Year 2)",
+        "category": "Dessert",
+        "sellPrice": 260
+    },
+    {
+        "name": "Cranberry Candy",
+        "ingredients": [
+            {
+                "item": "Cranberries",
+                "quantity": 1
+            },
+            {
+                "item": "Apple",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            }
+        ],
+        "energy": 175,
+        "health": 78,
+        "buffs": [],
+        "source": "Queen of Sauce (Winter 28, Year 1)",
+        "category": "Dessert",
+        "sellPrice": 175
+    },
+    {
+        "name": "Bruschetta",
+        "ingredients": [
+            {
+                "item": "Bread",
+                "quantity": 1
+            },
+            {
+                "item": "Oil",
+                "quantity": 1
+            },
+            {
+                "item": "Tomato",
+                "quantity": 1
+            }
+        ],
+        "energy": 90,
+        "health": 40,
+        "buffs": [],
+        "source": "Queen of Sauce (Winter 21, Year 2)",
+        "category": "Appetizer",
+        "sellPrice": 210
+    },
+    {
+        "name": "Coleslaw",
+        "ingredients": [
+            {
+                "item": "Red Cabbage",
+                "quantity": 1
+            },
+            {
+                "item": "Vinegar",
+                "quantity": 1
+            },
+            {
+                "item": "Mayonnaise",
+                "quantity": 1
+            }
+        ],
+        "energy": 115,
+        "health": 51,
+        "buffs": [],
+        "source": "Queen of Sauce (Spring 14, Year 1)",
+        "category": "Salad",
+        "sellPrice": 345
+    },
+    {
+        "name": "Fiddlehead Risotto",
+        "ingredients": [
+            {
+                "item": "Oil",
+                "quantity": 1
+            },
+            {
+                "item": "Fiddlehead Fern",
+                "quantity": 1
+            },
+            {
+                "item": "Garlic",
+                "quantity": 1
+            }
+        ],
+        "energy": 90,
+        "health": 40,
+        "buffs": [],
+        "source": "Queen of Sauce (Fall 28, Year 2)",
+        "category": "Dinner",
+        "sellPrice": 350
+    },
+    {
+        "name": "Poppyseed Muffin",
+        "ingredients": [
+            {
+                "item": "Poppy",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            }
+        ],
+        "energy": 125,
+        "health": 56,
+        "buffs": [],
+        "source": "Queen of Sauce (Winter 7, Year 2)",
+        "category": "Breakfast",
+        "sellPrice": 250
+    },
+    {
+        "name": "Chowder",
+        "ingredients": [
+            {
+                "item": "Clam",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            }
+        ],
+        "energy": 90,
+        "health": 40,
+        "buffs": [
+            {
+                "type": "Fishing",
+                "value": 1
+            }
+        ],
+        "source": "Willy (3 hearts)",
+        "category": "Soup",
+        "sellPrice": 150
+    },
+    {
+        "name": "Fish Stew",
+        "ingredients": [
+            {
+                "item": "Crayfish",
+                "quantity": 1
+            },
+            {
+                "item": "Mussel",
+                "quantity": 1
+            },
+            {
+                "item": "Periwinkle",
+                "quantity": 1
+            },
+            {
+                "item": "Tomato",
+                "quantity": 1
+            }
+        ],
+        "energy": 175,
+        "health": 78,
+        "buffs": [
+            {
+                "type": "Fishing",
+                "value": 3
+            }
+        ],
+        "source": "Willy (7 hearts)",
+        "category": "Soup",
+        "sellPrice": 175
+    },
+    {
+        "name": "Escargot",
+        "ingredients": [
+            {
+                "item": "Snail",
+                "quantity": 1
+            },
+            {
+                "item": "Garlic",
+                "quantity": 1
+            }
+        ],
+        "energy": 125,
+        "health": 56,
+        "buffs": [
+            {
+                "type": "Fishing",
+                "value": 2
+            }
+        ],
+        "source": "Willy (5 hearts)",
+        "category": "Appetizer",
+        "sellPrice": 125
+    },
+    {
+        "name": "Lobster Bisque",
+        "ingredients": [
+            {
+                "item": "Lobster",
+                "quantity": 1
+            },
+            {
+                "item": "Milk",
+                "quantity": 1
+            }
+        ],
+        "energy": 125,
+        "health": 56,
+        "buffs": [
+            {
+                "type": "Fishing",
+                "value": 3
+            },
+            {
+                "type": "Max Energy",
+                "value": 50
+            }
+        ],
+        "source": "Willy (9 hearts)",
+        "category": "Soup",
+        "sellPrice": 205
+    },
+    {
+        "name": "Maple Bar",
+        "ingredients": [
+            {
+                "item": "Maple Syrup",
+                "quantity": 1
+            },
+            {
+                "item": "Sugar",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            }
+        ],
+        "energy": 225,
+        "health": 101,
+        "buffs": [
+            {
+                "type": "Farming",
+                "value": 1
+            },
+            {
+                "type": "Fishing",
+                "value": 1
+            },
+            {
+                "type": "Mining",
+                "value": 1
+            }
+        ],
+        "source": "Queen of Sauce (Summer 14, Year 2)",
+        "category": "Dessert",
+        "sellPrice": 300
+    },
+    {
+        "name": "Crab Cakes",
+        "ingredients": [
+            {
+                "item": "Crab",
+                "quantity": 1
+            },
+            {
+                "item": "Wheat Flour",
+                "quantity": 1
+            },
+            {
+                "item": "Egg",
+                "quantity": 1
+            },
+            {
+                "item": "Oil",
+                "quantity": 1
+            }
+        ],
+        "energy": 175,
+        "health": 78,
+        "buffs": [
+            {
+                "type": "Speed",
+                "value": 1
+            },
+            {
+                "type": "Defense",
+                "value": 1
+            }
+        ],
+        "source": "Queen of Sauce (Fall 21, Year 2)",
+        "category": "Dinner",
+        "sellPrice": 275
+    },
+    {
+        "name": "Shrimp Cocktail",
+        "ingredients": [
+            {
+                "item": "Tomato",
+                "quantity": 1
+            },
+            {
+                "item": "Shrimp",
+                "quantity": 1
+            },
+            {
+                "item": "Wild Horseradish",
+                "quantity": 1
+            }
+        ],
+        "energy": 90,
+        "health": 40,
+        "buffs": [
+            {
+                "type": "Fishing",
+                "value": 1
+            },
+            {
+                "type": "Luck",
+                "value": 1
+            }
+        ],
+        "source": "Queen of Sauce (Winter 28, Year 2)",
+        "category": "Appetizer",
+        "sellPrice": 160
+    }
+]

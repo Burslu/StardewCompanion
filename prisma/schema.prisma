@@ -1,0 +1,106 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Crop {
+  id           String   @id @default(cuid())
+  name         String   @unique
+  description  String?
+  season       String   // Comma separated seasons: "Spring,Summer"
+  growthTime   Int
+  regrowthTime Int?
+  sellPrice    Int?
+  seedPrice    Int?
+  image        String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model Fish {
+  id          String   @id @default(cuid())
+  name        String   @unique
+  description String?
+  season      String   // "Spring,Summer"
+  weather     String   // "Sun,Rain"
+  location    String   // "River,Ocean"
+  time        String?  // "6am - 7pm"
+  difficulty  Int?
+  image       String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Gift {
+  id          String   @id @default(cuid())
+  npcName     String
+  itemName    String
+  preference  String   // "Love", "Like", "Neutral", "Dislike", "Hate"
+  image       String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@unique([npcName, itemName])
+}
+
+model Item {
+  id          String   @id @default(cuid())
+  name        String   @unique
+  description String?
+  type        String?  // "Artisan Goods", "Mineral", etc.
+  sellPrice   Int?
+  image       String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Npc {
+  id          String   @id @default(cuid())
+  name        String   @unique
+  birthday    String
+  location    String
+  loves       String   // JSON array
+  likes       String   // JSON array
+  hates       String   // JSON array
+  image       String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Bundle {
+  id          String   @id @default(cuid())
+  room        String
+  name        String   @unique
+  reward      String
+  items       String   // JSON array
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Recipe {
+  id          String   @id @default(cuid())
+  name        String   @unique
+  description String?
+  ingredients String   // JSON object
+  buffs       String?
+  source      String
+  image       String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model MiningLocation {
+  id          String   @id @default(cuid())
+  location    String   @unique
+  description String
+  floors      String
+  sections    String   // JSON array
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}

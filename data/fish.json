@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Pufferfish",
+    "description": "Inflates when threatened.",
+    "price": "data-sort-value=\"200\"\n\n\t.mw-parser-output .parent,.mw-parser-output .backimage,.mw-parser-output .backimagetransparent{position:relative;top:0;left:0}.mw-parser-output .backimage img,.mw-parser-output .foreimage img,.mw-parser-output .backimagetransparent img{display:block}.mw-parser-output .backimagetransparent img{opacity:0.6}.mw-parser-output .foreimage{position:absolute;bottom:0;right:0}\n\t200g\n\t\n\n\t\n\t250g\n\t\n\n\t\n\t300g\n\t\n\n\t\n\t400g",
+    "location": ".mw-parser-output .parent,.mw-parser-output .backimage,.mw-parser-output .backimagetransparent{position:relative;top:0;left:0}.mw-parser-output .backimage img,.mw-parser-output .foreimage img,.mw-parser-output .backimagetransparent img{display:block}.mw-parser-output .backimagetransparent img{opacity:0.6}.mw-parser-output .foreimage{position:absolute;bottom:0;right:0}",
+    "time": "200g",
+    "season": "",
+    "weather": "250g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/b/ba/Pufferfish.png"
+  },
+  {
+    "name": "Anchovy",
+    "description": "A small silver fish found in the ocean.",
+    "price": "data-sort-value=\"30\"\n\n\t\n\t30g\n\t\n\n\t\n\t37g\n\t\n\n\t\n\t45g\n\t\n\n\t\n\t60g",
+    "location": "",
+    "time": "30g",
+    "season": "",
+    "weather": "37g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/7/79/Anchovy.png"
+  },
+  {
+    "name": "Tuna",
+    "description": "A large fish that lives in the ocean.",
+    "price": "data-sort-value=\"100\"\n\n\t\n\t100g\n\t\n\n\t\n\t125g\n\t\n\n\t\n\t150g\n\t\n\n\t\n\t200g",
+    "location": "",
+    "time": "100g",
+    "season": "",
+    "weather": "125g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Tuna.png"
+  },
+  {
+    "name": "Sardine",
+    "description": "A common ocean fish.",
+    "price": "data-sort-value=\"40\"\n\n\t\n\t40g\n\t\n\n\t\n\t50g\n\t\n\n\t\n\t60g\n\t\n\n\t\n\t80g",
+    "location": "",
+    "time": "40g",
+    "season": "",
+    "weather": "50g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/0/04/Sardine.png"
+  },
+  {
+    "name": "Bream",
+    "description": "A fairly common river fish that becomes active at night.",
+    "price": "data-sort-value=\"45\"\n\n\t\n\t45g\n\t\n\n\t\n\t56g\n\t\n\n\t\n\t67g\n\t\n\n\t\n\t90g",
+    "location": "",
+    "time": "45g",
+    "season": "",
+    "weather": "56g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/8/82/Bream.png"
+  },
+  {
+    "name": "Largemouth Bass",
+    "description": "A popular fish that lives in lakes.",
+    "price": "data-sort-value=\"100\"\n\n\t\n\t100g\n\t\n\n\t\n\t125g\n\t\n\n\t\n\t150g\n\t\n\n\t\n\t200g",
+    "location": "",
+    "time": "100g",
+    "season": "",
+    "weather": "125g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/1/11/Largemouth_Bass.png"
+  },
+  {
+    "name": "Smallmouth Bass",
+    "description": "A freshwater fish that is very sensitive to pollution.",
+    "price": "data-sort-value=\"50\"\n\n\t\n\t50g\n\t\n\n\t\n\t62g\n\t\n\n\t\n\t75g\n\t\n\n\t\n\t100g",
+    "location": "",
+    "time": "50g",
+    "season": "",
+    "weather": "62g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Smallmouth_Bass.png"
+  },
+  {
+    "name": "Rainbow Trout",
+    "description": "A freshwater trout with colorful markings.",
+    "price": "data-sort-value=\"65\"\n\n\t\n\t65g\n\t\n\n\t\n\t81g\n\t\n\n\t\n\t97g\n\t\n\n\t\n\t130g",
+    "location": "",
+    "time": "65g",
+    "season": "",
+    "weather": "81g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/1/14/Rainbow_Trout.png"
+  },
+  {
+    "name": "Salmon",
+    "description": "Swims upstream to lay its eggs.",
+    "price": "data-sort-value=\"75\"\n\n\t\n\t75g\n\t\n\n\t\n\t93g\n\t\n\n\t\n\t112g\n\t\n\n\t\n\t150g",
+    "location": "",
+    "time": "75g",
+    "season": "",
+    "weather": "93g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/e/e0/Salmon.png"
+  },
+  {
+    "name": "Walleye",
+    "description": "A freshwater fish caught at night.",
+    "price": "data-sort-value=\"105\"\n\n\t\n\t105g\n\t\n\n\t\n\t131g\n\t\n\n\t\n\t157g\n\t\n\n\t\n\t210g",
+    "location": "",
+    "time": "105g",
+    "season": "",
+    "weather": "131g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/0/05/Walleye.png"
+  },
+  {
+    "name": "Perch",
+    "description": "A freshwater fish of the winter.",
+    "price": "data-sort-value=\"55\"\n\n\t\n\t55g\n\t\n\n\t\n\t68g\n\t\n\n\t\n\t82g\n\t\n\n\t\n\t110g",
+    "location": "",
+    "time": "55g",
+    "season": "",
+    "weather": "68g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/4/43/Perch.png"
+  },
+  {
+    "name": "Carp",
+    "description": "A common pond fish.",
+    "price": "data-sort-value=\"30\"\n\n\t\n\t30g\n\t\n\n\t\n\t37g\n\t\n\n\t\n\t45g\n\t\n\n\t\n\t60g",
+    "location": "",
+    "time": "30g",
+    "season": "",
+    "weather": "37g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Carp.png"
+  },
+  {
+    "name": "Catfish",
+    "description": "An uncommon fish found in streams.",
+    "price": "data-sort-value=\"200\"\n\n\t\n\t200g\n\t\n\n\t\n\t250g\n\t\n\n\t\n\t300g\n\t\n\n\t\n\t400g",
+    "location": "",
+    "time": "200g",
+    "season": "",
+    "weather": "250g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/9/99/Catfish.png"
+  },
+  {
+    "name": "Pike",
+    "description": "A freshwater fish that's difficult to catch.",
+    "price": "data-sort-value=\"100\"\n\n\t\n\t100g\n\t\n\n\t\n\t125g\n\t\n\n\t\n\t150g\n\t\n\n\t\n\t200g",
+    "location": "",
+    "time": "100g",
+    "season": "",
+    "weather": "125g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Pike.png"
+  },
+  {
+    "name": "Sunfish",
+    "description": "A common river fish.",
+    "price": "data-sort-value=\"30\"\n\n\t\n\t30g\n\t\n\n\t\n\t37g\n\t\n\n\t\n\t45g\n\t\n\n\t\n\t60g",
+    "location": "",
+    "time": "30g",
+    "season": "",
+    "weather": "37g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/5/56/Sunfish.png"
+  },
+  {
+    "name": "Red Mullet",
+    "description": "Long ago these were kept as pets.",
+    "price": "data-sort-value=\"75\"\n\n\t\n\t75g\n\t\n\n\t\n\t93g\n\t\n\n\t\n\t112g\n\t\n\n\t\n\t150g",
+    "location": "",
+    "time": "75g",
+    "season": "",
+    "weather": "93g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Red_Mullet.png"
+  },
+  {
+    "name": "Herring",
+    "description": "A common ocean fish.",
+    "price": "data-sort-value=\"30\"\n\n\t\n\t30g\n\t\n\n\t\n\t37g\n\t\n\n\t\n\t45g\n\t\n\n\t\n\t60g",
+    "location": "",
+    "time": "30g",
+    "season": "",
+    "weather": "37g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Herring.png"
+  },
+  {
+    "name": "Eel",
+    "description": "A long, slippery little fish.",
+    "price": "data-sort-value=\"85\"\n\n\t\n\t85g\n\t\n\n\t\n\t106g\n\t\n\n\t\n\t127g\n\t\n\n\t\n\t170g",
+    "location": "",
+    "time": "85g",
+    "season": "",
+    "weather": "106g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/9/91/Eel.png"
+  },
+  {
+    "name": "Octopus",
+    "description": "A mysterious and intelligent creature.",
+    "price": "data-sort-value=\"150\"\n\n\t\n\t150g\n\t\n\n\t\n\t187g\n\t\n\n\t\n\t225g\n\t\n\n\t\n\t300g",
+    "location": "",
+    "time": "150g",
+    "season": "",
+    "weather": "187g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png"
+  },
+  {
+    "name": "Red Snapper",
+    "description": "A popular fish with a nice red color.",
+    "price": "data-sort-value=\"50\"\n\n\t\n\t50g\n\t\n\n\t\n\t62g\n\t\n\n\t\n\t75g\n\t\n\n\t\n\t100g",
+    "location": "",
+    "time": "50g",
+    "season": "",
+    "weather": "62g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/d/d3/Red_Snapper.png"
+  },
+  {
+    "name": "Squid",
+    "description": "A deep sea creature that can grow to enormous size.",
+    "price": "data-sort-value=\"80\"\n\n\t\n\t80g\n\t\n\n\t\n\t100g\n\t\n\n\t\n\t120g\n\t\n\n\t\n\t160g",
+    "location": "",
+    "time": "80g",
+    "season": "",
+    "weather": "100g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/8/81/Squid.png"
+  },
+  {
+    "name": "Sea Cucumber",
+    "description": "A slippery, slimy creature found on the ocean floor.",
+    "price": "data-sort-value=\"75\"\n\n\t\n\t75g\n\t\n\n\t\n\t93g\n\t\n\n\t\n\t112g\n\t\n\n\t\n\t150g",
+    "location": "",
+    "time": "75g",
+    "season": "",
+    "weather": "93g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
+  },
+  {
+    "name": "Super Cucumber",
+    "description": "A rare, purple variety of sea cucumber.",
+    "price": "data-sort-value=\"250\"\n\n\t\n\t250g\n\t\n\n\t\n\t312g\n\t\n\n\t\n\t375g\n\t\n\n\t\n\t500g",
+    "location": "",
+    "time": "250g",
+    "season": "",
+    "weather": "312g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Super_Cucumber.png"
+  },
+  {
+    "name": "Ghostfish",
+    "description": "A pale, blind fish found in underground lakes.",
+    "price": "data-sort-value=\"45\"\n\n\t\n\t45g\n\t\n\n\t\n\t56g\n\t\n\n\t\n\t67g\n\t\n\n\t\n\t90g",
+    "location": "",
+    "time": "45g",
+    "season": "",
+    "weather": "56g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/7/72/Ghostfish.png"
+  },
+  {
+    "name": "Stonefish",
+    "description": "A bizarre fish that's shaped like a brick.",
+    "price": "data-sort-value=\"300\"\n\n\t\n\t300g\n\t\n\n\t\n\t375g\n\t\n\n\t\n\t450g\n\t\n\n\t\n\t600g",
+    "location": "",
+    "time": "300g",
+    "season": "",
+    "weather": "375g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/0/03/Stonefish.png"
+  },
+  {
+    "name": "Ice Pip",
+    "description": "A rare fish that thrives in extremely cold conditions.",
+    "price": "data-sort-value=\"500\"\n\n\t\n\t500g\n\t\n\n\t\n\t625g\n\t\n\n\t\n\t750g\n\t\n\n\t\n\t1,000g",
+    "location": "",
+    "time": "500g",
+    "season": "",
+    "weather": "625g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/6/63/Ice_Pip.png"
+  },
+  {
+    "name": "Lava Eel",
+    "description": "It can somehow survive in pools of red-hot lava.",
+    "price": "data-sort-value=\"700\"\n\n\t\n\t700g\n\t\n\n\t\n\t875g\n\t\n\n\t\n\t1,050g\n\t\n\n\t\n\t1,400g",
+    "location": "",
+    "time": "700g",
+    "season": "",
+    "weather": "875g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Lava_Eel.png"
+  },
+  {
+    "name": "Sandfish",
+    "description": "It tries to hide using camouflage.",
+    "price": "data-sort-value=\"75\"\n\n\t\n\t75g\n\t\n\n\t\n\t93g\n\t\n\n\t\n\t112g\n\t\n\n\t\n\t150g",
+    "location": "",
+    "time": "75g",
+    "season": "",
+    "weather": "93g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Sandfish.png"
+  },
+  {
+    "name": "Scorpion Carp",
+    "description": "It's like a regular carp but with a sharp stinger.",
+    "price": "data-sort-value=\"150\"\n\n\t\n\t150g\n\t\n\n\t\n\t187g\n\t\n\n\t\n\t225g\n\t\n\n\t\n\t300g",
+    "location": "",
+    "time": "150g",
+    "season": "",
+    "weather": "187g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/7/76/Scorpion_Carp.png"
+  },
+  {
+    "name": "Flounder",
+    "description": "It lives on the bottom, so both eyes are on top of its head.",
+    "price": "data-sort-value=\"100\"\n\n\t\n\t100g\n\t\n\n\t\n\t125g\n\t\n\n\t\n\t150g\n\t\n\n\t\n\t200g",
+    "location": "",
+    "time": "100g",
+    "season": "",
+    "weather": "125g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/8/85/Flounder.png"
+  },
+  {
+    "name": "Midnight Carp",
+    "description": "This shy fish only feels comfortable at night.",
+    "price": "data-sort-value=\"150\"\n\n\t\n\t150g\n\t\n\n\t\n\t187g\n\t\n\n\t\n\t225g\n\t\n\n\t\n\t300g",
+    "location": "",
+    "time": "150g",
+    "season": "",
+    "weather": "187g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/3/33/Midnight_Carp.png"
+  },
+  {
+    "name": "Sturgeon",
+    "description": "An ancient bottom-feeder with a dwindling population. Females can live up to 150 years.",
+    "price": "data-sort-value=\"200\"\n\n\t\n\t200g\n\t\n\n\t\n\t250g\n\t\n\n\t\n\t300g\n\t\n\n\t\n\t400g",
+    "location": "",
+    "time": "200g",
+    "season": "",
+    "weather": "250g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/4/42/Sturgeon.png"
+  },
+  {
+    "name": "Tiger Trout",
+    "description": "A rare hybrid trout that cannot bear offspring of its own.",
+    "price": "data-sort-value=\"150\"\n\n\t\n\t150g\n\t\n\n\t\n\t187g\n\t\n\n\t\n\t225g\n\t\n\n\t\n\t300g",
+    "location": "",
+    "time": "150g",
+    "season": "",
+    "weather": "187g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/0/01/Tiger_Trout.png"
+  },
+  {
+    "name": "Bullhead",
+    "description": "A relative of the catfish that eats a variety of foods off the lake bottom.",
+    "price": "data-sort-value=\"75\"\n\n\t\n\t75g\n\t\n\n\t\n\t93g\n\t\n\n\t\n\t112g\n\t\n\n\t\n\t150g",
+    "location": "",
+    "time": "75g",
+    "season": "",
+    "weather": "93g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Bullhead.png"
+  },
+  {
+    "name": "Tilapia",
+    "description": "A primarily vegetarian fish that prefers warm water.",
+    "price": "data-sort-value=\"75\"\n\n\t\n\t75g\n\t\n\n\t\n\t93g\n\t\n\n\t\n\t112g\n\t\n\n\t\n\t150g",
+    "location": "",
+    "time": "75g",
+    "season": "",
+    "weather": "93g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/7/73/Tilapia.png"
+  },
+  {
+    "name": "Chub",
+    "description": "A common freshwater fish known for its voracious appetite.",
+    "price": "data-sort-value=\"50\"\n\n\t\n\t50g\n\t\n\n\t\n\t62g\n\t\n\n\t\n\t75g\n\t\n\n\t\n\t100g",
+    "location": "",
+    "time": "50g",
+    "season": "",
+    "weather": "62g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Chub.png"
+  },
+  {
+    "name": "Dorado",
+    "description": "A fierce carnivore with brilliant orange scales.",
+    "price": "data-sort-value=\"100\"\n\n\t\n\t100g\n\t\n\n\t\n\t125g\n\t\n\n\t\n\t150g\n\t\n\n\t\n\t200g",
+    "location": "",
+    "time": "100g",
+    "season": "",
+    "weather": "125g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Dorado.png"
+  },
+  {
+    "name": "Albacore",
+    "description": "Prefers temperature \"edges\" where cool and warm water meet.",
+    "price": "data-sort-value=\"75\"\n\n\t\n\t75g\n\t\n\n\t\n\t93g\n\t\n\n\t\n\t112g\n\t\n\n\t\n\t150g",
+    "location": "",
+    "time": "75g",
+    "season": "",
+    "weather": "93g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Albacore.png"
+  },
+  {
+    "name": "Shad",
+    "description": "Lives in a school at sea, but returns to the rivers to spawn.",
+    "price": "data-sort-value=\"60\"\n\n\t\n\t60g\n\t\n\n\t\n\t75g\n\t\n\n\t\n\t90g\n\t\n\n\t\n\t120g",
+    "location": "",
+    "time": "60g",
+    "season": "",
+    "weather": "75g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/e/ef/Shad.png"
+  },
+  {
+    "name": "Lingcod",
+    "description": "A fearsome predator that will eat almost anything it can cram into its mouth.",
+    "price": "data-sort-value=\"120\"\n\n\t\n\t120g\n\t\n\n\t\n\t150g\n\t\n\n\t\n\t180g\n\t\n\n\t\n\t240g",
+    "location": "",
+    "time": "120g",
+    "season": "",
+    "weather": "150g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Lingcod.png"
+  },
+  {
+    "name": "Halibut",
+    "description": "A flat fish that lives on the ocean floor.",
+    "price": "data-sort-value=\"80\"\n\n\t\n\t80g\n\t\n\n\t\n\t100g\n\t\n\n\t\n\t120g\n\t\n\n\t\n\t160g",
+    "location": "",
+    "time": "80g",
+    "season": "",
+    "weather": "100g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/0/02/Halibut.png"
+  },
+  {
+    "name": "Woodskip",
+    "description": "A very sensitive fish that can only live in pools deep in the forest.",
+    "price": "data-sort-value=\"75\"\n\n\t\n\t75g\n\t\n\n\t\n\t93g\n\t\n\n\t\n\t112g\n\t\n\n\t\n\t150g",
+    "location": "",
+    "time": "75g",
+    "season": "",
+    "weather": "93g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/9/97/Woodskip.png"
+  },
+  {
+    "name": "Void Salmon",
+    "description": "A salmon, twisted by void energy. The fresh meat is jet black, but rapidly turns pink when exposed to air.",
+    "price": "data-sort-value=\"150\"\n\n\t\n\t150g\n\t\n\n\t\n\t187g\n\t\n\n\t\n\t225g\n\t\n\n\t\n\t300g",
+    "location": "",
+    "time": "150g",
+    "season": "",
+    "weather": "187g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Void_Salmon.png"
+  },
+  {
+    "name": "Slimejack",
+    "description": "He's coated in a very thick layer of slime. He keeps slipping out of your hands!",
+    "price": "data-sort-value=\"100\"\n\n\t\n\t100g\n\t\n\n\t\n\t125g\n\t\n\n\t\n\t150g\n\t\n\n\t\n\t200g",
+    "location": "",
+    "time": "100g",
+    "season": "",
+    "weather": "125g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/3/34/Slimejack.png"
+  },
+  {
+    "name": "Stingray",
+    "description": "Despite having a toxic stinger, these fish are shy and prefer to avoid humans.",
+    "price": "data-sort-value=\"180\"\n\n\t\n\t180g\n\t\n\n\t\n\t225g\n\t\n\n\t\n\t270g\n\t\n\n\t\n\t360g",
+    "location": "",
+    "time": "180g",
+    "season": "",
+    "weather": "225g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/3/3a/Stingray.png"
+  },
+  {
+    "name": "Lionfish",
+    "description": "An aggressive, predatory fish with venomous spines.",
+    "price": "data-sort-value=\"100\"\n\n\t\n\t100g\n\t\n\n\t\n\t125g\n\t\n\n\t\n\t150g\n\t\n\n\t\n\t200g",
+    "location": "",
+    "time": "100g",
+    "season": "",
+    "weather": "125g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Lionfish.png"
+  },
+  {
+    "name": "Blue Discus",
+    "description": "A brightly colored tropical fish that is popular in aquariums.",
+    "price": "data-sort-value=\"120\"\n\n\t\n\t120g\n\t\n\n\t\n\t150g\n\t\n\n\t\n\t180g\n\t\n\n\t\n\t240g",
+    "location": "",
+    "time": "120g",
+    "season": "",
+    "weather": "150g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/e/ee/Blue_Discus.png"
+  },
+  {
+    "name": "Goby",
+    "description": "Some types of Gobies can climb up waterfalls.",
+    "price": "data-sort-value=\"150\"\n\n\t\n\t150g\n\t\n\n\t\n\t187g\n\t\n\n\t\n\t225g\n\t\n\n\t\n\t300g",
+    "location": "",
+    "time": "150g",
+    "season": "",
+    "weather": "187g",
+    "image": "https://stardewvalleywiki.com/mediawiki/images/6/67/Goby.png"
+  }
+]

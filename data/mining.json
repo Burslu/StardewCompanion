@@ -1,0 +1,181 @@
+[
+    {
+        "location": "The Mines",
+        "description": "120 floors of mining challenges north of Pelican Town",
+        "floors": "1-120",
+        "sections": [
+            {
+                "name": "Normal",
+                "floors": "1-39",
+                "theme": "Brown earth",
+                "monsters": [
+                    "Green Slime",
+                    "Duggy",
+                    "Bug",
+                    "Rock Crab",
+                    "Grub",
+                    "Cave Fly",
+                    "Bat",
+                    "Stone Golem"
+                ],
+                "ores": [
+                    "Copper Ore"
+                ],
+                "gems": [
+                    "Amethyst",
+                    "Topaz",
+                    "Quartz",
+                    "Earth Crystal"
+                ],
+                "geodes": [
+                    "Geode"
+                ],
+                "notes": "Elevator unlocks every 5 floors. Copper Ore starts on Floor 2."
+            },
+            {
+                "name": "Frozen",
+                "floors": "40-79",
+                "theme": "Ice and snow",
+                "monsters": [
+                    "Frost Jelly",
+                    "Frost Bat",
+                    "Dust Sprite",
+                    "Ghost",
+                    "Skeleton"
+                ],
+                "ores": [
+                    "Iron Ore"
+                ],
+                "gems": [
+                    "Aquamarine",
+                    "Jade",
+                    "Frozen Tear",
+                    "Diamond"
+                ],
+                "geodes": [
+                    "Frozen Geode"
+                ],
+                "notes": "Iron Ore starts on Floor 41. Diamonds appear from Floor 51. Dust Sprites have 50% chance to drop Coal."
+            },
+            {
+                "name": "Lava",
+                "floors": "80-120",
+                "theme": "Lava and dark purple",
+                "monsters": [
+                    "Red Sludge",
+                    "Lava Bat",
+                    "Lava Crab",
+                    "Shadow Brute",
+                    "Shadow Shaman",
+                    "Metal Head",
+                    "Squid Kid"
+                ],
+                "ores": [
+                    "Gold Ore",
+                    "Iridium Ore"
+                ],
+                "gems": [
+                    "Emerald",
+                    "Fire Quartz",
+                    "Ruby",
+                    "Diamond",
+                    "Prismatic Shard"
+                ],
+                "geodes": [
+                    "Magma Geode"
+                ],
+                "notes": "Gold Ore starts on Floor 81. Mystic Stones can contain Iridium and Prismatic Shards. Prismatic Shards can drop from monsters after Floor 120."
+            }
+        ]
+    },
+    {
+        "location": "Skull Cavern",
+        "description": "Endless dungeon in Calico Desert (requires Skull Key from Floor 120 of The Mines)",
+        "floors": "Endless",
+        "sections": [
+            {
+                "name": "All Floors",
+                "floors": "1+",
+                "theme": "Desert cave",
+                "monsters": [
+                    "Purple Slime",
+                    "Mummy",
+                    "Serpent",
+                    "Iridium Bat",
+                    "Pepper Rex",
+                    "Iridium Crab"
+                ],
+                "ores": [
+                    "Iridium Ore"
+                ],
+                "gems": [
+                    "Prismatic Shard",
+                    "Diamond",
+                    "Ruby",
+                    "Emerald",
+                    "Jade",
+                    "Topaz",
+                    "Amethyst"
+                ],
+                "geodes": [
+                    "Omni Geode"
+                ],
+                "notes": "No elevator - starts from Floor 1 each visit. Iridium Ore chance increases with depth. Bring bombs, food, and go on high-luck days. Mummies require bombs to fully defeat."
+            }
+        ]
+    },
+    {
+        "location": "Quarry",
+        "description": "Unlockable area in the Mountains that regenerates resources daily",
+        "floors": "Surface",
+        "sections": [
+            {
+                "name": "Quarry",
+                "floors": "N/A",
+                "theme": "Open quarry",
+                "monsters": [],
+                "ores": [
+                    "Copper Ore",
+                    "Iron Ore",
+                    "Gold Ore",
+                    "Iridium Ore"
+                ],
+                "gems": [
+                    "Various gems",
+                    "Mystic Stone"
+                ],
+                "geodes": [
+                    "All types"
+                ],
+                "notes": "Unlocked after completing Community Center bundles or Joja form. Resources regenerate daily. Clear regularly for faster regeneration."
+            }
+        ]
+    },
+    {
+        "location": "Quarry Mine",
+        "description": "Single-floor cave inside the Quarry that resets daily",
+        "floors": "1",
+        "sections": [
+            {
+                "name": "Quarry Mine",
+                "floors": "1",
+                "theme": "Small cave",
+                "monsters": [
+                    "Haunted Skull",
+                    "Copper Slime",
+                    "Iron Slime",
+                    "Skeleton",
+                    "Skeleton Mage"
+                ],
+                "ores": [
+                    "Copper Ore",
+                    "Iron Ore",
+                    "Coal"
+                ],
+                "gems": [],
+                "geodes": [],
+                "notes": "Resets daily. Contains the Golden Scythe. New coal node side path added in v1.6."
+            }
+        ]
+    }
+]

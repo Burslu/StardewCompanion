@@ -1,0 +1,201 @@
+[
+    {
+        "room": "Pantry",
+        "name": "Spring Foraging Bundle",
+        "reward": "30 Spring Seeds",
+        "items": [
+            "Wild Horseradish",
+            "Daffodil",
+            "Leek",
+            "Dandelion"
+        ]
+    },
+    {
+        "room": "Pantry",
+        "name": "Summer Foraging Bundle",
+        "reward": "30 Summer Seeds",
+        "items": [
+            "Grape",
+            "Spice Berry",
+            "Sweet Pea"
+        ]
+    },
+    {
+        "room": "Pantry",
+        "name": "Fall Foraging Bundle",
+        "reward": "30 Fall Seeds",
+        "items": [
+            "Common Mushroom",
+            "Wild Plum",
+            "Hazelnut",
+            "Blackberry"
+        ]
+    },
+    {
+        "room": "Pantry",
+        "name": "Winter Foraging Bundle",
+        "reward": "30 Winter Seeds",
+        "items": [
+            "Winter Root",
+            "Crystal Fruit",
+            "Snow Yam",
+            "Crocus"
+        ]
+    },
+    {
+        "room": "Pantry",
+        "name": "Quality Crops Bundle",
+        "reward": "Preserves Jar",
+        "items": [
+            "Parsnip (5, gold)",
+            "Melon (5, gold)",
+            "Pumpkin (5, gold)",
+            "Corn (5, gold)"
+        ]
+    },
+    {
+        "room": "Crafts Room",
+        "name": "Spring Crops Bundle",
+        "reward": "20 Speed-Gro",
+        "items": [
+            "Parsnip",
+            "Green Bean",
+            "Cauliflower",
+            "Potato"
+        ]
+    },
+    {
+        "room": "Crafts Room",
+        "name": "Summer Crops Bundle",
+        "reward": "Quality Sprinkler (3)",
+        "items": [
+            "Tomato",
+            "Hot Pepper",
+            "Blueberry",
+            "Melon"
+        ]
+    },
+    {
+        "room": "Crafts Room",
+        "name": "Fall Crops Bundle",
+        "reward": "Bee House",
+        "items": [
+            "Corn",
+            "Eggplant",
+            "Pumpkin",
+            "Yam"
+        ]
+    },
+    {
+        "room": "Fish Tank",
+        "name": "River Fish Bundle",
+        "reward": "Bait (30)",
+        "items": [
+            "Sunfish",
+            "Catfish",
+            "Shad",
+            "Tiger Trout"
+        ]
+    },
+    {
+        "room": "Fish Tank",
+        "name": "Ocean Fish Bundle",
+        "reward": "Warp Totem: Beach (5)",
+        "items": [
+            "Sardine",
+            "Tuna",
+            "Red Snapper",
+            "Tilapia"
+        ]
+    },
+    {
+        "room": "Fish Tank",
+        "name": "Specialty Fish Bundle",
+        "reward": "Dish O' The Sea (5)",
+        "items": [
+            "Pufferfish",
+            "Ghostfish",
+            "Sandfish",
+            "Woodskip"
+        ]
+    },
+    {
+        "room": "Boiler Room",
+        "name": "Blacksmith's Bundle",
+        "reward": "Furnace",
+        "items": [
+            "Copper Bar",
+            "Iron Bar",
+            "Gold Bar"
+        ]
+    },
+    {
+        "room": "Boiler Room",
+        "name": "Geologist's Bundle",
+        "reward": "Omni Geode (5)",
+        "items": [
+            "Quartz",
+            "Earth Crystal",
+            "Frozen Tear",
+            "Fire Quartz"
+        ]
+    },
+    {
+        "room": "Bulletin Board",
+        "name": "Chef's Bundle",
+        "reward": "Pink Cake (3)",
+        "items": [
+            "Maple Syrup",
+            "Fiddlehead Fern",
+            "Truffle",
+            "Poppy",
+            "Maki Roll",
+            "Fried Egg"
+        ]
+    },
+    {
+        "room": "Bulletin Board",
+        "name": "Dye Bundle",
+        "reward": "Seed Maker",
+        "items": [
+            "Red Mushroom",
+            "Sea Urchin",
+            "Sunflower",
+            "Duck Feather",
+            "Aquamarine",
+            "Red Cabbage"
+        ]
+    },
+    {
+        "room": "Vault",
+        "name": "2,500g Bundle",
+        "reward": "3 Chocolate Cake",
+        "items": [
+            "2,500g"
+        ]
+    },
+    {
+        "room": "Vault",
+        "name": "5,000g Bundle",
+        "reward": "30 Quality Fertilizer",
+        "items": [
+            "5,000g"
+        ]
+    },
+    {
+        "room": "Vault",
+        "name": "10,000g Bundle",
+        "reward": "Lightning Rod",
+        "items": [
+            "10,000g"
+        ]
+    },
+    {
+        "room": "Vault",
+        "name": "25,000g Bundle",
+        "reward": "Crystalarium",
+        "items": [
+            "25,000g"
+        ]
+    }
+]

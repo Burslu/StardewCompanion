@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Parsnip",
+    "description": "A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.",
+    "season": "Spring",
+    "growthTime": 4,
+    "regrowthTime": null,
+    "sellPrice": 35,
+    "seedPrice": 20,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png"
+  },
+  {
+    "name": "Cauliflower",
+    "description": "Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.",
+    "season": "Spring",
+    "growthTime": 12,
+    "regrowthTime": null,
+    "sellPrice": 175,
+    "seedPrice": 80,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png"
+  },
+  {
+    "name": "Potato",
+    "description": "A widely cultivated tuber.",
+    "season": "Spring",
+    "growthTime": 6,
+    "regrowthTime": null,
+    "sellPrice": 80,
+    "seedPrice": 50,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png"
+  },
+  {
+    "name": "Strawberry",
+    "description": "A sweet, juicy favorite with an appealing red color.",
+    "season": "Spring",
+    "growthTime": 8,
+    "regrowthTime": 4,
+    "sellPrice": 120,
+    "seedPrice": 100,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png"
+  },
+  {
+    "name": "Melon",
+    "description": "A cool, sweet summer treat.",
+    "season": "Summer",
+    "growthTime": 12,
+    "regrowthTime": null,
+    "sellPrice": 250,
+    "seedPrice": 80,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/1/19/Melon.png"
+  },
+  {
+    "name": "Blueberry",
+    "description": "A popular berry reported to have many health benefits. The blue skin has the highest nutrient concentration.",
+    "season": "Summer",
+    "growthTime": 13,
+    "regrowthTime": 4,
+    "sellPrice": 50,
+    "seedPrice": 80,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png"
+  },
+  {
+    "name": "Hot Pepper",
+    "description": "Fiery hot! Handle with caution.",
+    "season": "Summer",
+    "growthTime": 5,
+    "regrowthTime": 3,
+    "sellPrice": 40,
+    "seedPrice": 40,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png"
+  },
+  {
+    "name": "Tomato",
+    "description": "Rich and slightly tangy, the Tomato has a wide variety of culinary uses.",
+    "season": "Summer",
+    "growthTime": 11,
+    "regrowthTime": 4,
+    "sellPrice": 60,
+    "seedPrice": 50,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Tomato.png"
+  },
+  {
+    "name": "Pumpkin",
+    "description": "A fall favorite, grown for its crunchy seeds and deliciously sweet flesh.",
+    "season": "Fall",
+    "growthTime": 13,
+    "regrowthTime": null,
+    "sellPrice": 320,
+    "seedPrice": 100,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png"
+  },
+  {
+    "name": "Cranberries",
+    "description": "These tart red berries are a traditional winter food.",
+    "season": "Fall",
+    "growthTime": 7,
+    "regrowthTime": 5,
+    "sellPrice": 75,
+    "seedPrice": 240,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cranberries.png"
+  },
+  {
+    "name": "Corn",
+    "description": "One of the most popular grains. The sweet, fresh cobs are a summer favorite.",
+    "season": "Summer,Fall",
+    "growthTime": 14,
+    "regrowthTime": 4,
+    "sellPrice": 50,
+    "seedPrice": 150,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png"
+  },
+  {
+    "name": "Wheat",
+    "description": "One of the most widely cultivated grains. Makes a great flour for baking.",
+    "season": "Summer,Fall",
+    "growthTime": 4,
+    "regrowthTime": null,
+    "sellPrice": 25,
+    "seedPrice": 10,
+    "image": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Wheat.png"
+  }
+]

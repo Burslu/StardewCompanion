@@ -1,0 +1,267 @@
+[
+    {
+        "name": "Abigail",
+        "birthday": "Fall 13",
+        "location": "Pierre's General Store",
+        "loves": [
+            "Amethyst",
+            "Banana Pudding",
+            "Blackberry Cobbler",
+            "Chocolate Cake",
+            "Pufferfish",
+            "Pumpkin",
+            "Spicy Eel"
+        ],
+        "likes": [
+            "Quartz"
+        ],
+        "hates": [
+            "Clay",
+            "Holly"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png"
+    },
+    {
+        "name": "Alex",
+        "birthday": "Summer 13",
+        "location": "1 River Road",
+        "loves": [
+            "Complete Breakfast",
+            "Salmon Dinner"
+        ],
+        "likes": [
+            "All Eggs (except Void Egg)"
+        ],
+        "hates": [
+            "Wild Horseradish",
+            "Quartz"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png"
+    },
+    {
+        "name": "Elliott",
+        "birthday": "Fall 5",
+        "location": "Elliott's Cabin (Beach)",
+        "loves": [
+            "Crab Cakes",
+            "Duck Feather",
+            "Lobster",
+            "Pomegranate",
+            "Tom Kha Soup"
+        ],
+        "likes": [
+            "All Fruits (except Salmonberry & Spice Berry)"
+        ],
+        "hates": [
+            "Pizza",
+            "Quartz"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png"
+    },
+    {
+        "name": "Emily",
+        "birthday": "Spring 27",
+        "location": "2 Willow Lane",
+        "loves": [
+            "Amethyst",
+            "Aquamarine",
+            "Cloth",
+            "Emerald",
+            "Jade",
+            "Ruby",
+            "Survival Burger",
+            "Topaz",
+            "Wool"
+        ],
+        "likes": [
+            "Daffodil"
+        ],
+        "hates": [
+            "Fish Taco",
+            "Maki Roll",
+            "Salmon Dinner",
+            "Sashimi"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/2/28/Emily.png"
+    },
+    {
+        "name": "Haley",
+        "birthday": "Spring 14",
+        "location": "2 Willow Lane",
+        "loves": [
+            "Coconut",
+            "Fruit Salad",
+            "Pink Cake",
+            "Sunflower"
+        ],
+        "likes": [
+            "Daffodil"
+        ],
+        "hates": [
+            "Clay",
+            "Prismatic Shard",
+            "Wild Horseradish"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png"
+    },
+    {
+        "name": "Harvey",
+        "birthday": "Winter 14",
+        "location": "Medical Clinic",
+        "loves": [
+            "Coffee",
+            "Pickles",
+            "Super Meal",
+            "Truffle Oil",
+            "Wine"
+        ],
+        "likes": [
+            "All Fruits (except Salmonberry & Spice Berry)"
+        ],
+        "hates": [
+            "Coral",
+            "Nautilus Shell",
+            "Rainbow Shell"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/95/Harvey.png"
+    },
+    {
+        "name": "Leah",
+        "birthday": "Winter 23",
+        "location": "Leah's Cottage (Forest)",
+        "loves": [
+            "Goat Cheese",
+            "Poppyseed Muffin",
+            "Salad",
+            "Stir Fry",
+            "Truffle",
+            "Vegetable Medley",
+            "Wine"
+        ],
+        "likes": [
+            "Driftwood"
+        ],
+        "hates": [
+            "Bread",
+            "Pancakes",
+            "Pizza"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/e/e6/Leah.png"
+    },
+    {
+        "name": "Maru",
+        "birthday": "Summer 10",
+        "location": "24 Mountain Road",
+        "loves": [
+            "Battery Pack",
+            "Cauliflower",
+            "Cheese Cauliflower",
+            "Diamond",
+            "Gold Bar",
+            "Iridium Bar",
+            "Miner's Treat",
+            "Pepper Poppers",
+            "Rhubarb Pie",
+            "Strawberry"
+        ],
+        "likes": [
+            "Quartz"
+        ],
+        "hates": [
+            "Honey",
+            "Pickles",
+            "Snow Yam",
+            "Truffle"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Maru.png"
+    },
+    {
+        "name": "Penny",
+        "birthday": "Fall 2",
+        "location": "Trailer (near JojaMart)",
+        "loves": [
+            "Diamond",
+            "Emerald",
+            "Melon",
+            "Poppy",
+            "Poppyseed Muffin",
+            "Red Plate",
+            "Roots Platter",
+            "Sandfish",
+            "Tom Kha Soup"
+        ],
+        "likes": [
+            "Leek"
+        ],
+        "hates": [
+            "Beer",
+            "Grape",
+            "Holly",
+            "Hops",
+            "Mead",
+            "Pale Ale",
+            "Wine"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Penny.png"
+    },
+    {
+        "name": "Sam",
+        "birthday": "Summer 17",
+        "location": "1 Willow Lane",
+        "loves": [
+            "Cactus Fruit",
+            "Maple Bar",
+            "Pizza",
+            "Tigerseye"
+        ],
+        "likes": [
+            "Joja Cola"
+        ],
+        "hates": [
+            "Mayonnaise",
+            "Pickles"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/94/Sam.png"
+    },
+    {
+        "name": "Sebastian",
+        "birthday": "Winter 10",
+        "location": "24 Mountain Road",
+        "loves": [
+            "Frozen Tear",
+            "Obsidian",
+            "Pumpkin Soup",
+            "Sashimi",
+            "Void Egg"
+        ],
+        "likes": [
+            "Quartz"
+        ],
+        "hates": [
+            "Clay",
+            "Complete Breakfast",
+            "Farmer's Lunch",
+            "Omelet"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Sebastian.png"
+    },
+    {
+        "name": "Shane",
+        "birthday": "Spring 20",
+        "location": "Marnie's Ranch",
+        "loves": [
+            "Beer",
+            "Hot Pepper",
+            "Pepper Poppers",
+            "Pizza"
+        ],
+        "likes": [
+            "All Eggs (except Void Egg)"
+        ],
+        "hates": [
+            "Pickles",
+            "Quartz"
+        ],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png"
+    }
+]
