@@ -1,4 +1,3 @@
-```typescript
 import { NextResponse } from 'next/server';
 import bundlesData from '../../../data/bundles.json';
 
@@ -14,4 +13,3 @@ export async function GET(request: Request) {
 
     return NextResponse.json(filteredBundles);
 }
-```
