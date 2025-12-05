@@ -12,10 +12,8 @@ const FavoritesContext = createContext<FavoritesContextType | undefined>(undefin
 
 export function FavoritesProvider({ children }: { children: React.ReactNode }) {
     const [favorites, setFavorites] = useState<string[]>([]);
-    const [mounted, setMounted] = useState(false);
 
     useEffect(() => {
-        setMounted(true);
         // Load favorites from localStorage
         const savedFavorites = localStorage.getItem('favorites');
         if (savedFavorites) {
@@ -34,10 +32,6 @@ export function FavoritesProvider({ children }: { children: React.ReactNode }) {
     };
 
     const isFavorite = (id: string) => favorites.includes(id);
-
-    if (!mounted) {
-        return <>{children}</>;
-    }
 
     return (
         <FavoritesContext.Provider value={{ favorites, toggleFavorite, isFavorite }}>
