@@ -2,7 +2,9 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import ThemeToggle from '../components/ThemeToggle';
+import dynamic from 'next/dynamic';
+
+const ThemeToggle = dynamic(() => import('../components/ThemeToggle'), { ssr: false });
 
 interface Bundle {
     id: string;
